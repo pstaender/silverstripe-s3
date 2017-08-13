@@ -1,5 +1,5 @@
 {
-    "name": "silverstripe/s3",
+    "name": "pstaender/silverstripe-s3-alpha",
     "type": "silverstripe-module",
     "description": "Adds SilverStripe support for using the S3 adapter for Flysystem",
     "license": "BSD-3-Clause",
